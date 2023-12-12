@@ -1,0 +1,242 @@
+Loading settings.json...
+
+Using set seed 0
+
+Loading csv files...
+
+Beginning evolution...
+
+Generation 1 | Best: 5051.2 | Median: 7851.7 | Worst: 12152.5
+Generation 2 | Best: 5049.4 | Median: 7455 | Worst: 12157.2
+Generation 3 | Best: 4855 | Median: 7154.6 | Worst: 11755.5
+Generation 4 | Best: 4849.7 | Median: 6950.9 | Worst: 11755.5
+Generation 5 | Best: 4651.6 | Median: 6655.6 | Worst: 11054.6
+Generation 6 | Best: 4651 | Median: 6455 | Worst: 10652.4
+Generation 7 | Best: 4252 | Median: 6348.3 | Worst: 10652.4
+Generation 8 | Best: 4149.7 | Median: 6151.2 | Worst: 9657.3
+Generation 9 | Best: 4149.7 | Median: 5954.6 | Worst: 9157.4
+Generation 10 | Best: 3852 | Median: 5851.7 | Worst: 9455.2
+Generation 11 | Best: 3852 | Median: 5749.7 | Worst: 8754.6
+Generation 12 | Best: 3852 | Median: 5554.5 | Worst: 8850.6
+Generation 13 | Best: 3851.7 | Median: 5452.3 | Worst: 8455.3
+Generation 14 | Best: 3750.7 | Median: 5351.3 | Worst: 8455.3
+Generation 15 | Best: 3750.7 | Median: 5250.9 | Worst: 8454.6
+Generation 16 | Best: 3748 | Median: 5151 | Worst: 8454.6
+Generation 17 | Best: 3452.3 | Median: 5051.9 | Worst: 8054.9
+Generation 18 | Best: 3451.7 | Median: 4952 | Worst: 8557.1
+Generation 19 | Best: 3254.6 | Median: 4852.3 | Worst: 7554.6
+Generation 20 | Best: 3251.9 | Median: 4753 | Worst: 8053.3
+Generation 21 | Best: 3251.9 | Median: 4654.9 | Worst: 7051.3
+Generation 22 | Best: 2954.3 | Median: 4648 | Worst: 7449.9
+Generation 23 | Best: 2954.3 | Median: 4550 | Worst: 7753.6
+Generation 24 | Best: 2950 | Median: 4451 | Worst: 8750.3
+Generation 25 | Best: 2851.3 | Median: 4352.3 | Worst: 8750.3
+Generation 26 | Best: 2851.3 | Median: 4347.4 | Worst: 8750.3
+Generation 27 | Best: 2550.3 | Median: 4249.6 | Worst: 8949
+Generation 28 | Best: 2550.3 | Median: 4151 | Worst: 7952.2
+Generation 29 | Best: 2448.4 | Median: 4052.9 | Worst: 7952.2
+Generation 30 | Best: 2448.4 | Median: 4048.4 | Worst: 7350.9
+Generation 31 | Best: 2248.4 | Median: 3950.3 | Worst: 6751.9
+Generation 32 | Best: 2248.4 | Median: 3851 | Worst: 6952.1
+Generation 33 | Best: 2248.4 | Median: 3751.9 | Worst: 6751.8
+Generation 34 | Best: 2248.4 | Median: 3747.7 | Worst: 6751.8
+Generation 35 | Best: 2152 | Median: 3650 | Worst: 6351.3
+Generation 36 | Best: 2152 | Median: 3553.6 | Worst: 6752.5
+Generation 37 | Best: 2152 | Median: 3549.4 | Worst: 6253
+Generation 38 | Best: 2146.4 | Median: 3451.7 | Worst: 6254.4
+Generation 39 | Best: 2146.4 | Median: 3447.3 | Worst: 6645
+Generation 40 | Best: 2049 | Median: 3349.4 | Worst: 6645
+Generation 41 | Best: 2049 | Median: 3251.7 | Worst: 6645.6
+Generation 42 | Best: 2049 | Median: 3248.3 | Worst: 6645.6
+Generation 43 | Best: 1947 | Median: 3150.6 | Worst: 6645.6
+Generation 44 | Best: 1946.4 | Median: 3146.7 | Worst: 5848.3
+Generation 45 | Best: 1845.7 | Median: 3049.7 | Worst: 6351
+Generation 46 | Best: 1845.7 | Median: 3046.1 | Worst: 5850
+Generation 47 | Best: 1747.7 | Median: 2948.7 | Worst: 5648.7
+Generation 48 | Best: 1747.7 | Median: 2944.3 | Worst: 5849.9
+Generation 49 | Best: 1547.7 | Median: 2849 | Worst: 5849.9
+Generation 50 | Best: 1547.7 | Median: 2845.6 | Worst: 5551
+Generation 51 | Best: 1445.7 | Median: 2749 | Worst: 5551
+Generation 52 | Best: 1344.4 | Median: 2746.1 | Worst: 5549.9
+Generation 53 | Best: 1344.4 | Median: 2649.9 | Worst: 5747.5
+Generation 54 | Best: 1344.4 | Median: 2647 | Worst: 5348.6
+Generation 55 | Best: 1344.4 | Median: 2550 | Worst: 5044.3
+Generation 56 | Best: 1344.4 | Median: 2547.7 | Worst: 5449.8
+Generation 57 | Best: 1344.4 | Median: 2545.4 | Worst: 5551.7
+Generation 58 | Best: 1245.1 | Median: 2448.7 | Worst: 5046.1
+Generation 59 | Best: 1151 | Median: 2446.7 | Worst: 5148
+Generation 60 | Best: 1151 | Median: 2350.2 | Worst: 5053.9
+Generation 61 | Best: 1151 | Median: 2347.7 | Worst: 4750.2
+Generation 62 | Best: 1151 | Median: 2345.3 | Worst: 5351.7
+Generation 63 | Best: 1149 | Median: 2248.3 | Worst: 4852.2
+Generation 64 | Best: 1149 | Median: 2246.4 | Worst: 4549.5
+Generation 65 | Best: 1149 | Median: 2244.4 | Worst: 4649
+Generation 66 | Best: 1149 | Median: 2147.7 | Worst: 5450.4
+Generation 67 | Best: 1149 | Median: 2146.1 | Worst: 4648
+Generation 68 | Best: 1144.7 | Median: 2143.7 | Worst: 4852.7
+Generation 69 | Best: 1044.4 | Median: 2047.4 | Worst: 5548.6
+Generation 70 | Best: 1044.4 | Median: 2045.7 | Worst: 5246.1
+Generation 71 | Best: 1044.4 | Median: 1950.8 | Worst: 4247.7
+Generation 72 | Best: 1044.1 | Median: 1947.3 | Worst: 4447.4
+Generation 73 | Best: 1044.1 | Median: 1945.4 | Worst: 4547.7
+Generation 74 | Best: 1044.1 | Median: 1942.8 | Worst: 5750
+Generation 75 | Best: 943.7 | Median: 1846.7 | Worst: 4250.3
+Generation 76 | Best: 943.7 | Median: 1845.1 | Worst: 4345.9
+Generation 77 | Best: 843.1 | Median: 1843.4 | Worst: 4748.3
+Generation 78 | Best: 843.1 | Median: 1746.7 | Worst: 4846.2
+Generation 79 | Best: 843.1 | Median: 1745.1 | Worst: 4349.2
+Generation 80 | Best: 843.1 | Median: 1744.1 | Worst: 4345.2
+Generation 81 | Best: 843.1 | Median: 1646.7 | Worst: 4345.2
+Generation 82 | Best: 843.1 | Median: 1645.4 | Worst: 4150.7
+Generation 83 | Best: 842.8 | Median: 1643.7 | Worst: 4148.6
+Generation 84 | Best: 742.8 | Median: 1546.7 | Worst: 4348
+Generation 85 | Best: 645.4 | Median: 1545.4 | Worst: 3947.7
+Generation 86 | Best: 645.4 | Median: 1544.1 | Worst: 4048
+Generation 87 | Best: 644.7 | Median: 1449 | Worst: 3946.8
+Generation 88 | Best: 644.4 | Median: 1445.4 | Worst: 4048.6
+Generation 89 | Best: 641.4 | Median: 1444.1 | Worst: 3746.6
+Generation 90 | Best: 543.7 | Median: 1442.8 | Worst: 4445.1
+Generation 91 | Best: 543.7 | Median: 1345.4 | Worst: 3644.1
+Generation 92 | Best: 542.4 | Median: 1344.1 | Worst: 3746.8
+Generation 93 | Best: 444.1 | Median: 1246.7 | Worst: 3345
+Generation 94 | Best: 444.1 | Median: 1244.4 | Worst: 3544.1
+Generation 95 | Best: 444.1 | Median: 1242.4 | Worst: 3447.4
+Generation 96 | Best: 342.4 | Median: 1144.7 | Worst: 3447.7
+Generation 97 | Best: 342.4 | Median: 1143.4 | Worst: 3446.4
+Generation 98 | Best: 342.4 | Median: 1044.7 | Worst: 3847.6
+Generation 99 | Best: 342.4 | Median: 1043.7 | Worst: 3847.6
+Generation 100 | Best: 342.4 | Median: 1041.4 | Worst: 3642.3
+Generation 101 | Best: 342.4 | Median: 944.1 | Worst: 3547.3
+Generation 102 | Best: 342.4 | Median: 942.8 | Worst: 3445.7
+Generation 103 | Best: 342.4 | Median: 844.4 | Worst: 2946.1
+Generation 104 | Best: 342.1 | Median: 843.4 | Worst: 3642.4
+Generation 105 | Best: 342.1 | Median: 841.4 | Worst: 3547.3
+Generation 106 | Best: 241.8 | Median: 743.7 | Worst: 3547.6
+Generation 107 | Best: 241.8 | Median: 743.1 | Worst: 3142.8
+Generation 108 | Best: 241.8 | Median: 645.4 | Worst: 3142.8
+Generation 109 | Best: 241.8 | Median: 644.1 | Worst: 3243.1
+Generation 110 | Best: 241.8 | Median: 643.1 | Worst: 3145
+Generation 111 | Best: 241.8 | Median: 642.1 | Worst: 3145
+Generation 112 | Best: 241.8 | Median: 544.4 | Worst: 2945.1
+Generation 113 | Best: 240.8 | Median: 543.7 | Worst: 2847.3
+Generation 114 | Best: 240.8 | Median: 543.1 | Worst: 2843.4
+Generation 115 | Best: 240.8 | Median: 542.4 | Worst: 2843.4
+Generation 116 | Best: 240.8 | Median: 445.4 | Worst: 2945.4
+Generation 117 | Best: 240.8 | Median: 444.1 | Worst: 3145.1
+Generation 118 | Best: 240.8 | Median: 443.4 | Worst: 3145.1
+Generation 119 | Best: 140.8 | Median: 443.1 | Worst: 2745.6
+Generation 120 | Best: 140.8 | Median: 442.4 | Worst: 2944.4
+Generation 121 | Best: 140.8 | Median: 441.4 | Worst: 2643.7
+Generation 122 | Best: 140.8 | Median: 343.7 | Worst: 2546.7
+Generation 123 | Best: 140.8 | Median: 342.8 | Worst: 2644.1
+Generation 124 | Best: 140.8 | Median: 341.8 | Worst: 2643.4
+Generation 125 | Best: 140.8 | Median: 341.1 | Worst: 2644.1
+Generation 126 | Best: 140.8 | Median: 242.4 | Worst: 2644.7
+Generation 127 | Best: 140.8 | Median: 241.8 | Worst: 2643.1
+Generation 128 | Best: 140.8 | Median: 241.8 | Worst: 2643.1
+Generation 129 | Best: 140.8 | Median: 241.8 | Worst: 2545.7
+Generation 130 | Best: 140.8 | Median: 241.8 | Worst: 2443.7
+Generation 131 | Best: 140.8 | Median: 241.8 | Worst: 3043.5
+Generation 132 | Best: 140.8 | Median: 241.1 | Worst: 2541.1
+Generation 133 | Best: 140.1 | Median: 240.8 | Worst: 2343.4
+Generation 134 | Best: 140.1 | Median: 240.8 | Worst: 2443.7
+Generation 135 | Best: 140.1 | Median: 240.8 | Worst: 2644.1
+Generation 136 | Best: 140.1 | Median: 240.8 | Worst: 2644.1
+Generation 137 | Best: 140.1 | Median: 240.8 | Worst: 2841.4
+Generation 138 | Best: 41.8 | Median: 240.1 | Worst: 2544.6
+Generation 139 | Best: 41.8 | Median: 142.1 | Worst: 2542.4
+Generation 140 | Best: 41.8 | Median: 140.8 | Worst: 2543.7
+Generation 141 | Best: 41.8 | Median: 140.8 | Worst: 3043.1
+Generation 142 | Best: 41.8 | Median: 140.8 | Worst: 2642.8
+Generation 143 | Best: 41.8 | Median: 140.8 | Worst: 2843.1
+Generation 144 | Best: 41.8 | Median: 140.8 | Worst: 2341.4
+Generation 145 | Best: 41.1 | Median: 140.8 | Worst: 2341.4
+Generation 146 | Best: 41.1 | Median: 140.8 | Worst: 2341.4
+Generation 147 | Best: 41.1 | Median: 140.1 | Worst: 2540.4
+Generation 148 | Best: 41.1 | Median: 140.1 | Worst: 2540.4
+Generation 149 | Best: 41.1 | Median: 140.1 | Worst: 2142.4
+Generation 150 | Best: 41.1 | Median: 140.1 | Worst: 2344.1
+Generation 151 | Best: 41.1 | Median: 140.1 | Worst: 2442.4
+Generation 152 | Best: 41.1 | Median: 140.1 | Worst: 2343.7
+Generation 153 | Best: 41.1 | Median: 140.1 | Worst: 2345.1
+Generation 154 | Best: 41.1 | Median: 140.1 | Worst: 2345.1
+Generation 155 | Best: 41.1 | Median: 41.8 | Worst: 2342.4
+Generation 156 | Best: 41.1 | Median: 41.8 | Worst: 2243.4
+Generation 157 | Best: 41.1 | Median: 41.8 | Worst: 2443.1
+Generation 158 | Best: 41.1 | Median: 41.8 | Worst: 2343.7
+Generation 159 | Best: 41.1 | Median: 41.8 | Worst: 2642.4
+Generation 160 | Best: 41.1 | Median: 41.8 | Worst: 2642.4
+Generation 161 | Best: 41.1 | Median: 41.1 | Worst: 2642.4
+Generation 162 | Best: 41.1 | Median: 41.1 | Worst: 2642.4
+Generation 163 | Best: 41.1 | Median: 41.1 | Worst: 2544.4
+Generation 164 | Best: 41.1 | Median: 41.1 | Worst: 2344.4
+Generation 165 | Best: 41.1 | Median: 41.1 | Worst: 2244.4
+Generation 166 | Best: 41.1 | Median: 41.1 | Worst: 2243.1
+Generation 167 | Best: 41.1 | Median: 41.1 | Worst: 2141.8
+Generation 168 | Best: 41.1 | Median: 41.1 | Worst: 2444.4
+Generation 169 | Best: 41.1 | Median: 41.1 | Worst: 2343.7
+Generation 170 | Best: 41.1 | Median: 41.1 | Worst: 2143.4
+Generation 171 | Best: 41.1 | Median: 41.1 | Worst: 2844.7
+Generation 172 | Best: 41.1 | Median: 41.1 | Worst: 2844.7
+Generation 173 | Best: 41.1 | Median: 41.1 | Worst: 2844.7
+Generation 174 | Best: 41.1 | Median: 41.1 | Worst: 2844.7
+Generation 175 | Best: 41.1 | Median: 41.1 | Worst: 2844.7
+Generation 176 | Best: 41.1 | Median: 41.1 | Worst: 2644.7
+Generation 177 | Best: 41.1 | Median: 41.1 | Worst: 2042.8
+Generation 178 | Best: 41.1 | Median: 41.1 | Worst: 2042.4
+Generation 179 | Best: 41.1 | Median: 41.1 | Worst: 1943.3
+Generation 180 | Best: 41.1 | Median: 41.1 | Worst: 2642.8
+Generation 181 | Best: 41.1 | Median: 41.1 | Worst: 2642.8
+Generation 182 | Best: 41.1 | Median: 41.1 | Worst: 2345.1
+Generation 183 | Best: 41.1 | Median: 41.1 | Worst: 2341.4
+Generation 184 | Best: 41.1 | Median: 41.1 | Worst: 2441.3
+Generation 185 | Best: 41.1 | Median: 41.1 | Worst: 2441.3
+Generation 186 | Best: 41.1 | Median: 41.1 | Worst: 2343.7
+Generation 187 | Best: 41.1 | Median: 41.1 | Worst: 2643.7
+Generation 188 | Best: 41.1 | Median: 41.1 | Worst: 2343.7
+Generation 189 | Best: 41.1 | Median: 41.1 | Worst: 2243.7
+Generation 190 | Best: 41.1 | Median: 41.1 | Worst: 2442.8
+Generation 191 | Best: 41.1 | Median: 41.1 | Worst: 2243.7
+Generation 192 | Best: 41.1 | Median: 41.1 | Worst: 2444.7
+Generation 193 | Best: 41.1 | Median: 41.1 | Worst: 2342.4
+Generation 194 | Best: 41.1 | Median: 41.1 | Worst: 2342.4
+Generation 195 | Best: 41.1 | Median: 41.1 | Worst: 2342.4
+Generation 196 | Best: 41.1 | Median: 41.1 | Worst: 2543.6
+Generation 197 | Best: 41.1 | Median: 41.1 | Worst: 2243.4
+Generation 198 | Best: 41.1 | Median: 41.1 | Worst: 2341.8
+Generation 199 | Best: 41.1 | Median: 41.1 | Worst: 2244.1
+Generation 200 | Best: 41.1 | Median: 41.1 | Worst: 2143
+
+Stopping evolution: Maximum generations reached.
+
+Best speciman:
+Course 1 (1-1)   | Room 10 | Teacher 10 | MWF 2 - 2:50pm
+Course 2 (1-2)   | Room 8  | Teacher 9  | MWF 4 - 4:50
+Course 3 (1-3)   | Room 11 | Teacher 3  | MWF 5 - 5:50pm
+Course 4 (2-1)   | Room 4  | Teacher 5  | TR 6 - 7:50pm
+Course 5 (2-2)   | Room 6  | Teacher 4  | TR 1 - 2:50pm
+Course 6 (2-3)   | Room 4  | Teacher 5  | TR 8 - 9:50am
+Course 7 (3-1)   | Room 1  | Teacher 6  | TR 6 - 7:50pm
+Course 8 (3-2)   | Room 9  | Teacher 7  | WF 7 - 8:50pm
+Course 9 (3-3)   | Room 1  | Teacher 2  | TR 1 - 2:50pm
+Course 10 (4-1)  | Room 2  | Teacher 2  | MW 3 - 4:50pm
+Course 11 (4-2)  | Room 9  | Teacher 9  | MWF 7am - 8:05am
+Course 12 (4-3)  | Room 7  | Teacher 9  | MWF 9:30am - 10:35am
+Course 13 (5-1)  | Room 7  | Teacher 3  | MW 6 - 7:50pm
+Course 14 (5-2)  | Room 3  | Teacher 5  | TR 10 - 11:50am
+Course 15 (5-3)  | Room 6  | Teacher 1  | TR 10 - 11:50am
+Course 16 (6-1)  | Room 5  | Teacher 6  | TR 8 - 9:50pm
+Course 17 (6-2)  | Room 3  | Teacher 8  | TR 3 - 4:50pm
+Course 18 (6-3)  | Room 9  | Teacher 2  | TR 3 - 4:50pm
+Course 19 (7-1)  | Room 4  | Teacher 10 | MWF 3:45pm - 4:50pm
+Course 20 (7-2)  | Room 6  | Teacher 9  | WF 8 - 9:50pm
+Course 21 (7-3)  | Room 8  | Teacher 3  | TR 8 - 9:50am
+Course 22 (8-1)  | Room 11 | Teacher 1  | TR 8 - 9:50am
+Course 23 (8-2)  | Room 8  | Teacher 7  | MW 5 - 6:50pm
+Course 24 (8-3)  | Room 10 | Teacher 7  | MWF 10:45am - 11:50am
+Course 25 (9-1)  | Room 3  | Teacher 6  | MF 8 - 9:50pm
+Course 26 (9-2)  | Room 10 | Teacher 3  | TR 5 - 6:50pm
+Course 27 (9-3)  | Room 7  | Teacher 2  | MF 1 - 2:50pm
+Course 28 (10-1) | Room 5  | Teacher 4  | TR 3 - 4:50pm
+Course 29 (10-2) | Room 11 | Teacher 10 | MWF 12pm - 1:05pm
+Fitness: 41.10206896551725
