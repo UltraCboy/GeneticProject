@@ -7,7 +7,7 @@ This is an implementation of a genetic algorithm in order to produce a valid cla
 - Open the terminal from the project folder.
 - Run `java -jar GeneticProject.jar`.
 - The program will create the first generation randomly, then produce new generations via evolution.
-  - At each generation, the fitnesses of the best, median, and worst hypotheses will be printed.
+  - At each generation, the fitnesses of the best, median, and worst hypotheses will be printed. Lower fitness is better.
 - Once either the fitness threshold was reached, or the maximum generations was reached, the simulation will halt.
 - It will then print out the best hypothesis the simulation produced, along with its fitness.
 
