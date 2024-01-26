@@ -3,6 +3,8 @@
 ## Description
 This is an implementation of a genetic algorithm in order to produce a valid class schedule, as described by Calvin Hoang Thach in his paper "The University Class Scheduling Problem". Much inspiration for how this algorithm was developed, as well as the data used to train the algorithm, was taken from Thach's paper. In particular, this algorithm is modeled after his Teacher Tricriteria Model, as described in Section 2.2.6 of the paper.
 
+This project was created for a university-level Artificial Intelligence course, submitted on December 11, 2023, and was uploaded afterwards for public use.
+
 ## How to Run
 - Open the terminal from the project folder.
 - Run `java -jar GeneticProject.jar`.
